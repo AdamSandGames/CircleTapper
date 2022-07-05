@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CircleTapper!</string>
+
+
+    <string name="play_menu_label">Play!</string>
+    <string name="options_label">Options</string>
+    <string name="exit_label">Quit</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="menu_settings">Options</string>
+    <string name="settings_label">Options</string>
+    <string name="settings_title">Circle Tapper settings</string>
+    <string name="action_settings">Circle Tapper settings</string>
+    <string name="game_title">Circle Tapper!</string>
+    <string name="map_score">00000</string>
+    <string name="song_list_title">Songs</string>
+    <string name="song_select_button_error_text">Default Button (Error Loading Songs)</string>
+    <string name="song_id_handoff_mapLoader">song_id_handoff_mapLoader</string>
+</resources>
